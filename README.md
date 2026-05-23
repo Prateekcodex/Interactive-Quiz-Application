@@ -21,7 +21,7 @@
 
 ---
 
-🖼️ Preview
+# 🖼️ Preview
 <img width="5376" height="3072" alt="Image" src="https://github.com/user-attachments/assets/a1cdd88c-10b7-47ca-bcf8-385dd77c057a" />
 
 ---
@@ -50,7 +50,8 @@
 
 ---
 
-🌟 Future Improvements
+# 🌟 Future Improvements
+
 Timer Feature ⏳
 Leaderboard 🏆
 Difficulty Levels 🎮
@@ -59,8 +60,7 @@ Dark Mode 🌙
 
 ---
 
-🌙
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome!
 
