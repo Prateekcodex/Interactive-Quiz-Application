@@ -34,15 +34,19 @@
 
 ---
 
-📂 Project Structure
-Interactive-Quiz-Application/
-│
-├── Images/
-├── js/
-├── index.html
-├── style.css
-├── favicon.png
-└── README.md
+# 📂 Project Structure
+
+| File / Folder | Description |
+|---------------|-------------|
+| `.vscode/` | VS Code configuration files |
+| `Images/` | Stores project images and screenshots |
+| `js/` | Contains JavaScript files |
+| `index.html` | Main HTML structure of the application |
+| `style.css` | Styling and responsive design |
+| `favicon.png` | Website favicon icon |
+| `README.md` | Project documentation |
+
+---
 
 🌟 Future Improvements
 Timer Feature ⏳
