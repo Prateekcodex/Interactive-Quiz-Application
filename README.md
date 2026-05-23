@@ -9,7 +9,8 @@
 </p>
 
 ---
-📌 Features
+# 📌 Features
+
 ✅ Multiple Choice Questions
 ✅ Real-time Score Tracking
 ✅ Interactive UI
@@ -25,7 +26,8 @@
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
+
 | Technology | Usage                 |
 | ---------- | --------------------- |
 | HTML5      | Structure             |
