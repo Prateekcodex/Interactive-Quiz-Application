@@ -14,13 +14,13 @@
 ---
 # 📌 Features
 
-✅ Multiple Choice Questions
-✅ Real-time Score Tracking
-✅ Interactive UI
-✅ Responsive Design
-✅ Clean Animations
-✅ User-Friendly Interface
-✅ Fast Performance
+- ✅ Multiple Choice Questions
+- ✅ Real-time Score Tracking
+- ✅ Interactive UI
+- ✅ Responsive Design
+- ✅ Clean Animations
+- ✅ User-Friendly Interface
+- ✅ Fast Performance
 
 ---
 
