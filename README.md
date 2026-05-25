@@ -25,7 +25,6 @@
 ---
 
 # 🖼️ Preview
-# 🖼️ Preview
 
 <p align="center">
   <img src="./Images/bg1.jpg" width="700" alt="Project Preview">
