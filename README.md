@@ -1,13 +1,13 @@
 # 🎯 Interactive Quiz Application
 
 > A modern and responsive Quiz Application built using **HTML, CSS, and JavaScript**.
-> <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Interactive+Quiz+Application;Modern+Responsive+Quiz+Website;Built+with+HTML+CSS+and+JavaScript" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-13.8%25-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-33.3%25-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/HTML5-13.8%25-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-33.3%25-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-52.9%25-yellow?style=for-the-badge&logo=javascript">
 </p>
 
